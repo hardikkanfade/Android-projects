@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782166921770",
+    "firebase_url": "https://form-38d40-default-rtdb.firebaseio.com",
+    "project_id": "form-38d40",
+    "storage_bucket": "form-38d40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782166921770:android:26f02fc38ffd6f0d2ea953",
+        "android_client_info": {
+          "package_name": "com.example.form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fXdwIXOhm29H6XtI_gHb99qjpsF4NHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
